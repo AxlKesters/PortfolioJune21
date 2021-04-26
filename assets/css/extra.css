@@ -1,0 +1,10 @@
+.portfolio-item-picture {
+    max-height: 400px !important;
+    width: auto !important;
+    overflow: hidden !important;
+    margin: auto !important;
+}
+
+.email, .phone {
+    margin-top: 0 !important;
+}
